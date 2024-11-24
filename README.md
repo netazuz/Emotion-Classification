@@ -102,7 +102,8 @@ Emotion-Classification/
 ## **Example Dataset**
 - **RAVDESS**: Ryerson Audio-Visual Database of Emotional Speech and Song ([Link](https://zenodo.org/record/1188976)).
 - **TESS**: Toronto Emotional Speech Set ([Link](https://tspace.library.utoronto.ca/handle/1807/24487)).
-- **Custom Dataset**: Ensure it has the required format.
+- **CREMA**:  Crowd-sourced Emotional Multimodal Actors Dataset ([Link](https://github.com/CheyneyComputerScience/CREMA-D)).
+- **SAVEE**: Surrey Audio-Visual Expressed Emotion ([Link](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee))
 
 ---
 
